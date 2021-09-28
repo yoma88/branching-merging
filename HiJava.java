@@ -1,0 +1,1 @@
+//new HiJava class test
